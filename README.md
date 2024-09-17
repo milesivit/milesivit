@@ -6,7 +6,7 @@
 
 ## About me
 <br><br>
-- :school: I am a `Junior` at [Itec](https://www.itecriocuarto.org.ar/nuestras-carreras/softwarehttps://www.itecriocuarto.org.ar/nuestras-carreras/software).
+- :school: I am a `Junior` at [Itec](https://www.itecriocuarto.org.ar/).
 - :technologist: I have loved computers since I was little.
 - :student: I’m currently learning `Software development`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [my LinKedIn](https://www.linkedin.com/in/milena-sivit/?locale=en_US).
