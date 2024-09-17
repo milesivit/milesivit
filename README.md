@@ -11,8 +11,8 @@
 ## About me
 <br><br>
 - :school: I am a `Junior` at <a href="https://www.itecriocuarto.org.ar/" target="_blank">Itec</a>.
-- :technologist: I have loved computers since I was little.
-- :student: I’m currently learning `Software development`.
+- :👩🏻‍💻: I have loved computers since I was little.
+- :👩🏻‍🎓: I’m currently learning `Software development`.
 - :thinking: I’m currently open for a new `job opportunity`, this is <a href="https://www.linkedin.com/in/milena-sivit/?locale=en_US" target="_blank">my LinKedIn</a>.
 - :boom: You can visit <a href="https://cvmilenasivit.netlify.app/" target="_blank">my website</a>.
 <br>
