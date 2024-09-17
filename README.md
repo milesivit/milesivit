@@ -5,9 +5,7 @@
 <br>
 
 ## About me
-
 <br><br>
-
 - :school: I am a `Junior` at [Itec](https://www.itecriocuarto.org.ar/nuestras-carreras/softwarehttps://www.itecriocuarto.org.ar/nuestras-carreras/software).
 - :technologist: I have loved computers since I was little.
 - :student: I’m currently learning `Software development`.
