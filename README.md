@@ -33,10 +33,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=visual-basic&logoColor=white" alt="Visual Basic logo" title="Visual Basic" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R logo" title="R" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=visual-basic&logoColor=white" alt="Visual Basic logo" title="Visual Basic" height="25" /></span>
 
 ### <u> Frontend Development Technologies and Tools: </u>
 
