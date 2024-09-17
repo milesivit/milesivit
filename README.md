@@ -8,11 +8,11 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Itec](https://www.itecriocuarto.org.ar/nuestras-carreras/softwarehttps://www.itecriocuarto.org.ar/nuestras-carreras/software) at [Suez Canal University](http://suez.edu.eg/ar/).
+- :school: I am a `Junior` at [Itec](https://www.itecriocuarto.org.ar/nuestras-carreras/softwarehttps://www.itecriocuarto.org.ar/nuestras-carreras/software).
 - :technologist: I have loved computers since I was little.
 - :student: I’m currently learning `Software development`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY LinKedIn](https://www.linkedin.com/in/milena-sivit/?locale=en_US).
-- :boom: You can visit [MY WEBSITE](https://cvmilenasivit.netlify.app/).
+- :thinking: I’m currently open for a new `job opportunity`, this is [my LinKedIn](https://www.linkedin.com/in/milena-sivit/?locale=en_US).
+- :boom: You can visit [my website](https://cvmilenasivit.netlify.app/).
 <br>
 
 ## 🐍 A Snake Eating my Contributions Graph
