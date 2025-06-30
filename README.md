@@ -10,7 +10,6 @@
 
 ## About me
 <br><br>
-- :school: I am a `Junior` at <a href="https://www.itecriocuarto.org.ar/" target="_blank">Itec</a>.
 - 👩🏻‍💻 I have loved computers since I was little.
 - 👩🏻‍🎓 I’m currently learning `Software development`.
 - :thinking: I’m currently open for a new `job opportunity`, this is <a href="https://www.linkedin.com/in/milena-sivit/?locale=en_US" target="_blank">my LinKedIn</a>.
@@ -59,6 +58,8 @@
 <span><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker logo" title="Docker Code" height="25" /></span>
 &nbsp;
 <span><img src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask logo"  title="Flask" height="25"/></span>
+&nbsp;
+<span><img src = "https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Django logo"  title="Django" height="25"/></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin logo" title="phpMyAdmin" height="25" /></span>
 &nbsp;
