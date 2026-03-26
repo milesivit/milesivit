@@ -13,7 +13,7 @@
 - 👩🏻‍💻 I have loved computers since I was little.
 - 👩🏻‍🎓 I’m a `Software developer`.
 - :thinking: I’m currently open for a new `job opportunity`, this is <a href="https://www.linkedin.com/in/milena-sivit/?locale=en_US" target="_blank">my LinKedIn</a>.
-- :boom: You can visit <a href="https://cvmilenasivit.netlify.app/" target="_blank">my website</a>.
+- :boom: You can visit <a href="https://portfoliosivit.vercel.app/" target="_blank">my website</a>.
 <br>
 
 
